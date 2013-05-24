@@ -33,6 +33,15 @@
 
 
 		/**
+		 * method init
+		 *
+		 * @method init
+		 */
+		$.fn.init = function(){
+			console.log("Hello jQuery");
+		}
+
+		/**
 		 * method getOptions
 		 *
 		 * @method getOptions
