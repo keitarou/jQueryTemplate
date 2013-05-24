@@ -37,9 +37,9 @@
 		 *
 		 * @method init
 		 */
-		$.fn.init = function(){
-			console.log("Hello jQuery");
-		}
+		// $.fn.init = function(){
+		// 	console.log("Hello jQuery");
+		// }
 
 		/**
 		 * method getOptions
